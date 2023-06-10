@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anirudh_p26" target="blank"><img src="https://img.shields.io/twitter/follow/anirudh_p26?logo=twitter&style=for-the-badge" alt="anirudh_p26" /></a> </p>
 
-- 🔭 I’m currently working on [SOCIAL MEDIA WEBSITE](https://github.com/anirudhp26/social-media-react)
+- 🔭 I’m currently working on [LEARNWITHME](https://github.com/anirudhp26/learnwithme)
 
 - 🌱 I’m currently learning **REDUX, APOLLO, GRAPHQL**
 
