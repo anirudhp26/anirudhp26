@@ -7,23 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/anirudhp26" target="blank"><img src="https://img.shields.io/twitter/follow/anirudhp26?logo=twitter&style=for-the-badge" alt="anirudhp26" /></a> </p>
 
-- 🔭 I’m currently working on [showyourbuilds](https://github.com/showyourbuilds/showyourbuilds)
-
-- 🌱 I’m currently learning **CI/CD, Automation using Jenkins, Testing with TravisCI**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anirudhp26](https://github.com/anirudhp26)
 
-- 💬 Ask me about **Web and DevOps**
+- 💬 Ask me about **Backends and DevOps**
 
 - 📫 How to reach me **anirudh26p@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RgXBfdoaIHFRm8Fwr2Bis-TQg44TQBP0/view?usp=share_link](https://drive.google.com/file/d/1RgXBfdoaIHFRm8Fwr2Bis-TQg44TQBP0/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BqKKJzcGvltdcfeAer4tZKHG3sbTrjdW/view?usp=drive_link](https://drive.google.com/file/d/1BqKKJzcGvltdcfeAer4tZKHG3sbTrjdW/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anirudh_p26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudh_p26" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_anirudh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_anirudh26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anirudh26p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirudh26p" height="30" width="40" /></a>
+<a href="https://x.com/anirudhp26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudh_p26" height="30" width="40" /></a>
+<a href="https://instagram.com/an1rudh.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an1rudh.p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
